@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>rebass</name>
+    <description>Overlay focused on audio tools and OS X compatibility</description>
+	<homepage>https://github.com/reBass/gentoo-prefix-overlay/</homepage>
+	<owner type="organization">
+		<name>reBass</name>
+		<email>curlybracket@rebass.in</email>
+	</owner>
+    <source type="git">git://github.com/reBass/gentoo-prefix-overlay.git</source>
+    <feed>https://github.com/reBass/gentoo-prefix-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
